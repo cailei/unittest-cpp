@@ -8,9 +8,14 @@
 *.opensdf
 *.ncb
 
+# Xcode temp/user folder/files
+*.xcworkspace
+xcuserdata
+
 # Build output directories
 Release
 Debug
 MinSizeRel
 RelWithDebInfo
 ipch
+
